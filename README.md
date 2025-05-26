@@ -68,7 +68,8 @@ missing_count
 
 ## 数据文件
 
-* 请根据实际需求，提供适当的 CSV 文件路径和数据。
+* 该数据集可在 Kaggle 网站获取。
+世界天气资料库：https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code
 
 ## 贡献
 
